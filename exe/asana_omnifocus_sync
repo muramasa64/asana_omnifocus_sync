@@ -1,3 +1,5 @@
 #!/usr/bin/env ruby
 
 require "asana_omnifocus_sync"
+
+AsanaOmnifocusSync::CLI.start
